@@ -15,3 +15,5 @@ converter.convert("V") # => 5
 ```
 
 To convert a Roman Numeral to Arabic, you need to provide it as a String.
+
+**NOTE**: The library only guarantees to work till 3999.
